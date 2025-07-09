@@ -1,0 +1,30 @@
+/****
+p {
+        color:rgb(255, 47, 189);
+        font-weight: bold;
+       font-size: 30px;
+ }
+****/
+/* body {
+  background-color: gray;
+} */
+
+p {color: #2e34b5;
+
+}
+
+h1, h4{
+  color: rgb(188, 25, 25);
+}
+
+div p {
+  color: blueviolet;
+}
+
+#first-para {
+  color: green;
+}
+
+.first-para {
+  color: rgba(213, 31, 31, 0.981);
+}
